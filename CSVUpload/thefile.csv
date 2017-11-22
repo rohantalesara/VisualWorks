@@ -1,0 +1,125 @@
+Timestamp,Gender,Height,Weight,CGPA,PL,Sim_Course,Focus,DS_DA,bday,age,PL_rating
+8/7/2017 10:53:55,Male,177.8,80.5,6.5,Java,No,Science,No,Sep,19,4
+8/7/2017 10:54:06,Male,181,118,8.79,C,Yes,Data,No,Nov,19,4
+8/7/2017 10:54:10,Male,166,62.3,8.6,Python,Yes,Data,No,Jan,19,3
+8/7/2017 10:54:23,Male,178,60,8.7,Python,No,Data,No,Feb,19,4
+8/7/2017 10:54:27,Male,170,85,8,Python,No,Data,No,June,19,3
+8/7/2017 10:54:28,Male,170,62,9.17,Python,No,Science,No,Sep,18,4
+8/7/2017 10:54:30,Male,168,65,9.045,C++,Yes,Data,May be,Aug,18,4
+8/7/2017 10:54:33,Male,195,74,7.1,C,Yes,Data,Yes,May,19,3
+8/7/2017 10:54:39,Female,163,60,8.92,C,No,Data,May be,Feb,19,2
+8/7/2017 10:54:39,Male,175,74,8.96,C,No,Data,Yes,March,18,3
+8/7/2017 10:54:44,Male,170,75,9.5,C,No,Science,May be,Oct,18,3
+8/7/2017 10:54:47,Female,165,54,9.1,Python,Yes,Science,May be,Nov,18,4
+8/7/2017 10:54:49,Male,160,44,9.02,C++,No,Science,No,Jan,19,4
+8/7/2017 10:54:50,Male,175,80,9.08,Java,No,Data,May be,Feb,19,3
+8/7/2017 10:54:53,Female,159,57.4,8.15,C,Yes,Data,Yes,Feb,19,4
+8/7/2017 10:54:54,Female,153,52,8.6,C++,Yes,Data,May be,March,19,4
+8/7/2017 10:54:54,Male,190,61,7.7,Python,No,Data,Yes,Aug,19,4
+8/7/2017 10:54:56,Male,177,76,6.84,Python,Yes,Data,May be,Nov,18,4
+8/7/2017 10:54:57,Male,180,65,8.3,Python,Yes,Science,No,Feb,19,4
+8/7/2017 10:54:57,Male,180,85,8.4,Python,Yes,Data,No,Jan,19,5
+8/7/2017 10:55:00,Male,162,53,7.04,C,No,Data,May be,Oct,18,3
+8/7/2017 10:55:05,Male,183,70,8.56,Python,Yes,Data,May be,March,19,3
+8/7/2017 10:55:08,Male,170,67,8.1,C,No,Data,May be,March,19,3
+8/7/2017 10:55:10,Male,167,63,8.7,C++,No,Data,May be,April,19,4
+8/7/2017 10:55:11,Female,162,58,9.35,C,Yes,Data,No,Sep,19,4
+8/7/2017 10:55:14,Male,165,65,8.85,C,No,Science,No,Jan,19,3
+8/7/2017 10:55:14,Female,156,49,8.96,C,No,Data,May be,Sep,18,3
+8/7/2017 10:55:37,Male,175,75,9.48,Python,No,Data,May be,April,19,3
+8/7/2017 10:55:38,Male,178,70,6,C++,No,Data,May be,June,19,2
+8/7/2017 10:55:41,Female,155,78,8.4,C++,No,Data,May be,Jan,18,3
+8/7/2017 10:55:42,Male,169,74,8.54,C,No,Data,No,March,19,4
+8/7/2017 10:55:44,Female,5.7,50,5.9,Python,No,Science,May be,Aug,19,4
+8/7/2017 10:55:50,Female,160,53,6.96,C,No,Science,May be,Sep,18,1
+8/7/2017 10:55:51,Male,170,50,7,C,No,Science,May be,Sep,19,2
+8/7/2017 10:55:57,Female,158,68,7.83,C++,No,Science,No,July,20,3
+8/7/2017 10:56:01,Male,165,70,9.2,C,No,Data,May be,Nov,19,4
+8/7/2017 10:56:08,Male,175,55,7.8,Python,No,Science,May be,June,19,3
+8/7/2017 10:56:12,Male,181,100,9.15,C,No,Science,May be,Sep,19,3
+8/7/2017 10:56:21,Male,178,65,8,C,No,Data,No,June,19,4
+8/7/2017 10:56:30,Male,182,85,7.08,Java,No,Data,May be,Feb,19,3
+8/7/2017 10:56:31,Female,162,51,6,C,No,Data,No,April,20,3
+8/7/2017 10:56:33,Male,172,61,8,C++,No,Science,May be,June,19,3
+8/7/2017 10:56:35,Male,184,74,6.3,C++,No,Data,May be,March,19,3
+8/7/2017 10:56:42,Male,180,80,1,C++,No,Science,May be,Aug,18,3
+8/7/2017 10:56:48,Male,180,76,5.5,C++,No,Science,May be,Dec,19,3
+8/7/2017 10:56:54,Male,160,60,8.3,C,Yes,Data,No,Jan,18,3
+8/7/2017 10:57:16,Male,170.688,51.5,7.54,Python,No,Science,May be,Aug,19,2
+8/7/2017 10:57:31,Female,160,60,7.33,C++,No,Data,May be,Feb,18,3
+8/7/2017 10:57:53,Male,175,65,9.835,C++,No,Science,No,Feb,19,3
+8/7/2017 10:57:57,Male,175,70,8.3,C,No,Science,May be,Feb,19,3
+8/7/2017 10:58:06,Female,158,54,7.29,C,No,Data,Yes,Feb,18,3
+8/7/2017 10:58:06,Male,170,58,7.6,C++,No,Data,May be,Feb,20,2
+8/7/2017 10:58:27,Female,160,52,7,C,No,Science,May be,Oct,19,2
+8/7/2017 10:58:59,Male,167,68,8.33,C,No,Data,May be,July,19,3
+8/7/2017 10:59:18,Male,175.26,82,7.2,C,No,Data,May be,July,19,4
+8/7/2017 11:00:54,Female,154,52,6,C,No,Data,May be,Oct,18,2
+8/7/2017 11:04:35,Male,175,65,9.375,C++,No,Science,No,Feb,19,3
+8/7/2017 11:05:27,Male,166,62,8.5,Python,Yes,Data,No,Jan,19,2
+8/7/2017 11:05:44,Female,150,55,5.6,Python,No,Science,May be,Aug,19,2
+8/7/2017 11:08:14,Male,120,51,7.83,C,No,Science,May be,Aug,19,4
+8/7/2017 11:53:48,Female,158,75,4.32,C,No,Data,May be,June,20,2
+8/7/2017 11:54:50,Male,157,92,7.02,Python,No,Data,May be,Nov,19,3
+8/7/2017 11:54:59,Female,150,46,8.15,C++,No,Data,Yes,June,19,3
+8/7/2017 11:55:02,Male,180,52,8.2,Java,No,Science,No,April,19,5
+8/7/2017 11:55:35,Female,158,52,6.49,C++,Yes,Science,May be,Aug,18,3
+8/7/2017 11:55:46,Female,156,52,6.97,C++,Yes,Data,May be,April,19,2
+8/7/2017 11:55:48,Male,178,65,7.2,C++,No,Science,No,June,19,3
+8/7/2017 11:56:11,Female,155,40,9.4,C,Yes,Science,May be,Oct,18,3
+8/7/2017 11:56:14,Female,167.64,58,7.15,C,No,Science,No,Oct,18,2
+8/7/2017 11:56:14,Male,175,76,7.25,Python,No,Science,May be,Sep,18,1
+8/7/2017 11:56:19,Male,182,85,9.17,C,No,Data,May be,Sep,19,3
+8/7/2017 11:56:28,Female,162,56,8.35,Python,No,Science,May be,May,19,3
+8/7/2017 11:56:29,Male,175,66,8.7,C,No,Data,May be,July,19,3
+8/7/2017 11:56:41,Male,194,78,8,C++,No,Science,No,July,19,3
+8/7/2017 11:56:46,Male,165,78,3.8,C++,No,Data,May be,April,19,3
+8/7/2017 11:56:56,Female,157,64,5.58,C,No,Data,May be,Oct,18,2
+8/7/2017 11:56:58,Male,178,77,7.13,Java,No,Data,May be,March,19,2
+8/7/2017 11:56:58,Male,175,60,8.4,C,No,Data,Yes,March,19,3
+8/7/2017 11:56:59,Male,175,67,7.2,Python,No,Data,No,Feb,18,3
+8/7/2017 11:57:02,Male,176,97,8.77,C,No,Data,May be,April,19,4
+8/7/2017 11:57:02,Female,172,58,6.8,C,No,Data,May be,Jan,19,3
+8/7/2017 11:57:07,Male,170,60,7,C,Yes,Science,No,Nov,18,3
+8/7/2017 11:57:07,Male,175,57,7,C,No,Data,May be,Aug,18,3
+8/7/2017 11:57:11,Male,165,78,3.8,C++,No,Data,May be,April,19,3
+8/7/2017 11:57:12,Male,181,61,8.52,C,No,Data,May be,Dec,18,3
+8/7/2017 11:57:20,Male,170,50,9.17,C,No,Data,May be,Dec,20,4
+8/7/2017 11:57:30,Female,179,74,7.63,C,No,Data,No,Feb,18,3
+8/7/2017 11:57:32,Male,160,64,8.2,Java,No,Data,No,April,19,3
+8/7/2017 11:57:38,Male,160,50,6.2,C,No,Data,May be,June,19,1
+8/7/2017 11:57:41,Male,185,70,6.2,C,No,Data,May be,Nov,19,3
+8/7/2017 11:57:47,Male,166,61,8,Python,No,Science,May be,Jan,19,3
+8/7/2017 11:57:56,Male,179,54,8.5,C,No,Data,No,Sep,18,4
+8/7/2017 11:57:57,Male,183,68,8.5,Python,No,Data,May be,May,19,4
+8/7/2017 11:57:58,Male,179,55,7.6,C,No,Science,No,Sep,19,3
+8/7/2017 11:58:01,Male,183,72,5.2,C,No,Data,No,Aug,19,2
+8/7/2017 11:58:02,Female,157,48,7.54,C++,No,Data,May be,Nov,18,3
+8/7/2017 11:58:05,Male,182,67,6.17,Python,No,Science,May be,Sep,18,3
+8/7/2017 11:58:09,Male,170,60,7.7,C,No,Data,Yes,Aug,19,3
+8/7/2017 11:58:24,Male,162,43,9.6,C,No,Data,May be,March,19,3
+8/7/2017 11:58:27,Male,168,75,7.54,C,Yes,Data,May be,Nov,18,3
+8/7/2017 11:58:31,Female,154,57,7.01,Python,No,Science,May be,Nov,18,3
+8/7/2017 11:58:42,Male,180,74,8.96,C,Yes,Data,May be,July,19,4
+8/7/2017 11:58:52,Male,168,65,9.42,Python,No,Data,May be,May,19,3
+8/7/2017 11:58:54,Female,160,45,9.3,C,No,Data,No,Feb,18,3
+8/7/2017 11:59:11,Male,165,65,9.17,Python,No,Data,Yes,April,19,3
+8/7/2017 11:59:15,Female,149,52,6.3,C,No,Data,May be,March,19,3
+8/7/2017 11:59:24,Female,153,50,8.21,C,No,Data,May be,Nov,18,3
+8/7/2017 11:59:25,Female,5.2,47,6.92,C,No,Science,May be,Aug,20,4
+8/7/2017 11:59:30,Male,175,69,7.8,Java,Yes,Science,May be,Jan,19,3
+8/7/2017 11:59:33,Male,170,55,8.77,Java,No,Data,No,July,19,3
+8/7/2017 11:59:41,Female,158,59,8.54,C,No,Data,Yes,March,19,2
+8/7/2017 11:59:42,Female,167.64,54,5,C,No,Data,May be,Aug,18,2
+8/7/2017 12:00:29,Male,179,65,9.23,C,No,Data,No,Dec,18,4
+8/7/2017 12:00:30,Male,182,58,9.83,C,No,Science,No,March,19,2
+8/7/2017 12:00:36,Male,179,85,7,C,No,Data,No,May,19,3
+8/7/2017 12:08:07,Female,100,50,10,Python,Yes,Science,May be,Dec,21,5
+8/7/2017 12:08:31,Female,180,120,9,Python,Yes,Data,May be,March,21,5
+8/7/2017 12:08:38,Male,160,57,8,C,No,Data,May be,Sep,19,3
+8/7/2017 12:08:41,Male,166,61,8,Python,No,Science,May be,Jan,19,3
+8/7/2017 12:08:46,Male,168,75,7.54,C,No,Science,May be,Nov,18,3
+8/7/2017 12:09:08,Male,175,55,8.2,C,No,Data,May be,April,19,3
+8/7/2017 12:09:17,Female,5.3,75,7,Python,No,Science,May be,May,18,3
+8/7/2017 12:09:51,Male,170,55,8.77,Java,No,Science,May be,July,19,3
+8/7/2017 12:11:53,Male,76,5,8,C,No,Science,May be,Aug,18,3

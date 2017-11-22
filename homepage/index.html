@@ -1,0 +1,58 @@
+<html>
+<head>
+	<style type="text/css">
+		
+		@keyframes bringin {
+    		from {margin-left: 60%;opacity: 0;}
+    		to {margin-left: 55%;opacity: 1;}
+    	}
+
+    	@keyframes bringup {
+    		from {margin-top: 35%;
+    			opacity: 0;}
+    		to {margin-top: 25%;opacity: 1;}
+    	}
+
+    	.circle {
+    		background-color: #DC143C;
+    		border-radius: 100%;
+    		width: 10%;
+    		height: 18%;
+    		position: absolute;
+    		text-align: center;
+    		border: 1px solid #DC143C;
+    		color:white;
+    		font-size: 20px;
+            cursor: pointer;
+    	}
+
+	</style>
+</head>
+<body>
+<img src="vis-snip.png" style="position:absolute;margin-top:10%;margin-left: 10%;" alt="logo">
+<b>
+<a href="home.html"><p style="position:absolute;color: grey;font-size:200px;margin-left: 55%;margin-top: 10%;animation-name:bringin;animation-duration: 2s;" onmouseover="home()" onmouseleave="homerev()"> > </p></a>
+<a href="help.html"><p style="position:absolute;color: grey;font-size:200px;margin-left: 30%;margin-top: 25%;animation-name:bringup;animation-duration: 2s;" onmouseover="help()" onmouseleave="helprev()"> \/ </p></a>
+</b>
+<form action="upload.php" method="post" enctype="multipart/form-data">
+<input type="submit" value="Plot" class="circle" style="position:fixed;">
+</form>
+<button id="home" class="circle" style="margin-top:14%; margin-left: 65%; visibility: hidden;font-family: sans-serif;">Home</div>
+<button id="how" class="circle" style="margin-top:40%; margin-left: 29.5%; visibility: hidden;font-family: sans-serif;">How To Use</div>
+
+<script type="text/javascript">
+	function home(){
+		document.querySelector("#home").style.visibility="visible";
+	}
+	function homerev(){
+		document.querySelector("#home").style.visibility="hidden";
+	}
+	function help(){
+		document.querySelector("#how").style.visibility="visible";
+	}
+	function helprev(){
+		document.querySelector("#how").style.visibility="hidden";
+	}
+</script>
+</body>
+</html>

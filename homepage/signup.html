@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Sign Up</title>
+</head>
+
+<style>
+    
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("background.jpg");
+}
+
+.modal {
+    width: 50%;
+    margin: 13% auto; /* 5% from the top, 15% from the bottom and centered */
+    background-color: white;
+    padding: 2%;
+    border: 5px solid black;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+.signup-btn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #4CAF50;
+    float:left;width:50%
+}
+
+.cancel-btn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+    float:left;width:50%
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+</style>
+
+<body>
+    
+    <div class="modal">
+        <form action="sign-up.php" method="post">
+                <label><b>Username</b></label>
+                <input type="text" placeholder="Enter Username" name="username" required></input>
+                    
+                <label><b>Password</b></label>
+                <input type="password" id="pass1" placeholder="Enter Password" name="password" required></input>
+                
+                <label><b>Repeat Password</b></label>
+                <input type="password" id="pass2" placeholder="Repeat Password" name="re-password" required></input><br/><br/>
+                
+                <input type="checkbox" onclick="showPassword()">Show Password</br></br>
+                
+                <p>By creating an account you agree to our <a href="#">Terms &amp; Privacy Policy</a>.</p>
+                
+                <button class="signup-btn" type="submit" onclick="passwordCheck()">Sign up</button>
+                <button class="cancel-btn">Cancel</button><br/><br/><br/>
+        </form>
+    </div>
+    
+    <script>
+        
+        function showPassword()
+        {
+            var x = document.getElementById("pass1");
+            if (x.type === "password") { x.type = "text";}
+            else { x.type = "password"; }
+            
+            var x = document.getElementById("pass2");
+            if (x.type === "password") { x.type = "text";}
+            else { x.type = "password"; }
+        }
+    
+    </script>
+    
+</body>
+
+</html>

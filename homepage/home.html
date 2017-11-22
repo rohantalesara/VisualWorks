@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    
+    <head>
+        
+        <title>Homepage</title>
+        
+        <meta width="device-width" name="viewport">
+        
+        <style>
+            
+        .parallax {
+            min-height: 800px;
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        .parallax-home {
+            background-image: url("histogram.jpg");
+        }
+        
+        .parallax-about {
+            background-image: url("about4.jpg");
+            color: white;
+
+        }
+        
+        .parallax-contact {
+            background-image: url("phone.png");
+        }
+        
+        ul {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000066;
+        }
+        
+        li {
+            float: right;
+            border-left: 1px solid white;
+        }
+        
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        
+        li a:hover:not(.active) {
+            color: black;
+            background-color: white;
+        }
+        
+        .active {
+            background-color: #4CAF50;
+        }
+        
+        .button {
+            border-radius: 12px;
+            color: black;
+            padding: 25px 32px;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+            width: 250px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+            background-color: white;
+            color: black;
+            border: 2px solid #ff9900;
+        }
+        
+        .button:hover {
+            background-color: #ff9900;
+            color: white;
+        }
+        
+        </style>
+        
+    </head>
+    
+    <body>
+        
+        <ul style="z-index: 1;">
+            <li style="float:right;"><a href="#contact">Contact</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="help.html">Help</a></li>
+            <li><a href="login.html">Sign in</a></li>
+            <li><a href="#home">Home</a></li>
+            <li style="float: left;" ><a href="index.html">VisualWorks.com</a></li>
+        </ul>
+        
+        <div id="home" class="parallax parallax-home" align="center">
+            
+            <br /><br /><br />
+            <h1 align="center" style="font-size: 60px; color: #f21c0d;font-family: sans-serif;letter-spacing: 9px;">Visual Works</h1>
+            <h3 align="center" style="font-size: 45px; color: black;font-family: sans-serif;letter-spacing: 6px;">Beautiful . Simple . Intuitive .</h3>
+            <!--<b><p align="center" style="font-size: 20px; color: #009900;font-family: sans-serif;">Create beautiful visualizations of your data, all at <b>zero</b> cost.<br />
+            You no longer need to learn <code>coding</code> for generating graphs.<br />
+            Just a couple of clicks and you are done.</p></b>
+            <br /><br /><br />-->
+            <br><br><br>
+            <form action="upload.php" method="post">
+                <input type="submit" class="button" style="font-size: 20px;" value="Get Started >>">
+            </form>
+        </div>
+        
+        <b>
+        <div id="about" class="parallax parallax-about" style="height: 100%;">
+            <br /><br /><br />
+            <h1 align="center" style="font-size: 60px;font-family: sans-serif;">About</h1>
+            <p  align="center" style="font-size: 25px; margin-left: 7.5%; margin-right: 7.5%;font-family: sans-serif;">Data analysis has never been so easy.<br /><br />
+            Using modern tools for data analysis may be tedious and time consuming.<br /><br />
+            VisualWorks.com comes with an internally designed program which plots what other sophisticated tools achieve after some serious coding.<br /><br />
+            Get a wide range of graphical plots for your data in a matter of seconds.<br />
+            Including <b style="font-size: 23px;">Bar Graph, Pie Chart, Histogram</b> and many more.<br /><br />
+            You don't need to know the code required to do so. Just a couple of clicks and you are done.<br /><br />
+            Now, isn't that GREAT??</p>
+        </div>
+        </b>
+        
+        <div align="center" id="contact" class="parallax parallax-contact" style="height: 100%;">
+            
+            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+            <h1 style="font-size: 50px;font-family: sans-serif;">Contact</h1>
+            <p  style="font-size: 20px;font-family: sans-serif;"> Email: queries@visualworks.com<br />
+            Contact No.: 020-27486562<br />
+            (Suggestions and corrections are most welcome)</p>
+        </div>
+        
+    </body>
+    
+</html>
